@@ -3,3 +3,5 @@
 *.log
 **/build/
 **/include/sym/
+
+node_modules
